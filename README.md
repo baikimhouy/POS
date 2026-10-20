@@ -1,7 +1,9 @@
 # StylePOS Frontend
 
 Point-of-sale web app for a clothing shop. Supports English and Khmer.
-
+## POS System Demo
+Watch a short demonstration of the clothing POS system.
+[▶ Watch Demo Video](https://github.com/baikimhouy/POS/issues/1#issue-5939482654)
 ## Tech Stack
 - React + TypeScript
 - Vite
